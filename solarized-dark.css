@@ -1,6 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Inconsolata);
-@import url(http://fonts.googleapis.com/css?family=PT+Sans);
-@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 article,
 aside,
 details,
@@ -176,7 +173,6 @@ h6 {
 html {
   background-color: #073642;
   color: #839496;
-  margin: 1em;
 }
 body {
   background-color: #002b36;
